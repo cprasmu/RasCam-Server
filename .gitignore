@@ -1,15 +1,13 @@
 *.class
 *.log
 *.lck
-
-# Package Files #
 *.jar
 *.war
 *.ear
 *.DS_Store
-
 .DS_Store
 
 src/cprasmu/.DS_Store
 bin/
 build/
+
