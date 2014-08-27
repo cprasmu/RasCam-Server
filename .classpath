@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/pi4j-core.jar"/>
+	<classpathentry kind="lib" path="/Users/peterrasmussen/razCams.jar"/>
+	<classpathentry kind="lib" path="lib/aspectjrt-1.7.3.jar"/>
+	<classpathentry kind="lib" path="lib/isoparser-1.0-RC-27.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
