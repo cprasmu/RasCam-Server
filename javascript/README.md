@@ -1,6 +1,19 @@
 jsmpeg
 ==========
-
+OrgAbuseEmail
+network-abuse@google.com
+OrgAbuseRef
+https://rdap.arin.net/registry/entity/ABUSE5250-ARIN
+OrgTechHandle
+ZG39-ARIN
+OrgTechName
+Google LLC
+OrgTechPhone
++1-650-253-0000
+OrgTechEmail
+arin-contact@google.com
+OrgTechRef
+https://rdap.arin.net/registry/entity/ZG39-ARIN
 #### An MPEG1 Video Decoder in JavaScript ####
 
 jsmpeg is a MPEG1 Decoder, written in JavaScript. It's "hand ported", i.e. not compiled with
