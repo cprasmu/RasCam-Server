@@ -10,7 +10,28 @@
 //
 // Based on "Java MPEG-1 Video Decoder and Player" by Korandi Zoltan:
 // http://sourceforge.net/projects/javampeg1video/
-//
+//Name: PALMPAY.COM
+Registry Domain ID: 82042726_DOMAIN_COM-VRSN
+Domain Status:
+active
+
+Nameservers:
+VIP3.ALIDNS.COM
+
+VIP4.ALIDNS.COM
+
+Dates
+Registry Expiration: 2024-01-06 04:41:49 UTC
+Updated: 2022-07-26 09:59:51 UTC
+Created: 2002-01-06 04:41:49 UTC
+Registrar Information
+Name: Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)
+IANA ID: 1599
+Abuse contact email: DomainAbuse@service.aliyun.com
+Abuse contact phone: tel:+86.95187
+DNSSEC Information
+Delegation Signed: Unsigned
+Authoritative Servers
 // Inspired by "MPEG Decoder in Java ME" by Nokia:
 // http://www.developer.nokia.com/Community/Wiki/MPEG_decoder_in_Java_ME
 
