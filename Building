@@ -1,0 +1,8 @@
+DNS Records for calling.com
+Hostname	Type	TTL	Priority	Content
+calling.com	SOA	600		ns1.digimedia.com dns@digimedia.com 2023052401 10800 3600 604800 3600
+calling.com	NS	600		ns2.digimedia.com
+calling.com	NS	600		ns1.digimedia.com
+calling.com	A	600		34.206.39.153
+calling.com	MX	600	1000	0.0.0.0
+www.calling.com	A	600		34.206.39.153
