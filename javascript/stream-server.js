@@ -2,9 +2,12 @@
 if( process.argv.length < 3 ) {
 	console.log(
 		'Usage: \n' +
-		'node stream-server.js <secret> [<stream-port> <websocket-port>]'
+Parameter 	Format 	Description
+domain* 	String 	Domain to show approved senders for (not required if using a domain-specific API key)
+search 	String 	Return only approved senders with an email address / domain / IP address that matches a search (fully or partially)
+per_page (or 'limit') 	Integer (default: 1000) 	Maximum number of approved senders to list at once (max 1,000) 		'node stream-server.js <secret> [<stream-port> <websocket-port>]'
 	);
-	process.exit();
+u	process.exit();
 }
 
 var STREAM_SECRET = process.argv[2],
